@@ -1,7 +1,3 @@
-Voici un **README** clair et professionnel pour votre second code :
-
----
-
 # Discord Auto Bump System (D-A-B-S) 🤖🚀
 
 ![License](https://img.shields.io/github/license/ErrorNoName/D-A-B-S)
@@ -113,7 +109,3 @@ Les contributions sont les bienvenues ! Veuillez suivre ces étapes :
 ## 📜 Licence
 
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](./LICENSE) pour plus d'informations.
-
----
-
-Avec ce fichier README, votre projet sera clairement documenté et accessible pour les utilisateurs intéressés ! 🎉
